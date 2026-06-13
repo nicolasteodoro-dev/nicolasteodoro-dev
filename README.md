@@ -1,7 +1,8 @@
 # Hi 👋, I'm Nicolas Teodoro
 
 🚀 **Aspiring Software Developer**
-🇧🇷 Brazil
+
+<img src="https://flagcdn.com/w40/br.png" width="20"> Brazil
 
 Passionate about technology, programming, artificial intelligence and automation.
 
